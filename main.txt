@@ -1,1 +1,2 @@
 Este es mi proyecto de practica
+Esta linea simula el trabajo de un compañero de equipo.
